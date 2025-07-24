@@ -50,4 +50,9 @@ Slicers, including hidden slicers, enable users to filter data dynamically witho
 
 ![Other Analysis](https://github.com/seymurabdullayev/Pharmaceutical-Sales-Analysis/blob/d19c490880c40d6f6b093672c84087ccab760daa/Other%20Analysis.png)
 
+## How to Use
+
+1. Download the [Pharmaceutical_Sales_Analysis.pbix](Pharmaceutical_Sales_Analysis.pbix) file from this repository.
+2. Open it using Power BI Desktop.
+3. Review the visualizations and interact with filters and slicers.
 
