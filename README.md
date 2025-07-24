@@ -46,5 +46,13 @@ Bookmarks and page navigation were utilized to organize multiple visuals efficie
 Slicers, including hidden slicers, enable users to filter data dynamically without cluttering the interface.
 
 ## Dashboards
-1.![Sales Analysis](https://github.com/seymurabdullayev/Pharmaceutical-Sales-Analysis/blob/559acbd9d98056c0d11e84f5d3cb908eb4386026/Sales%20Analysis.png)
+![Sales Analysis](https://github.com/seymurabdullayev/Pharmaceutical-Sales-Analysis/blob/559acbd9d98056c0d11e84f5d3cb908eb4386026/Sales%20Analysis.png)
+
+![Other Analysis](https://github.com/seymurabdullayev/Pharmaceutical-Sales-Analysis/blob/d19c490880c40d6f6b093672c84087ccab760daa/Other%20Analysis.png)
+
+## How to Use
+
+1. Download the [Pharmaceutical Sales Analysis Dashboard.pbix](Pharmaceutical Sales Analysis Dashboard.pbix) file from this repository.
+2. Open it using Power BI Desktop.
+3. Review the visualizations and interact with filters and slicers.
 
