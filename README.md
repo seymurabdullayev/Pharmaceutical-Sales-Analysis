@@ -46,4 +46,5 @@ Bookmarks and page navigation were utilized to organize multiple visuals efficie
 Slicers, including hidden slicers, enable users to filter data dynamically without cluttering the interface.
 
 ## Dashboards
+1.![Sales Analysis](https://github.com/seymurabdullayev/Pharmaceutical-Sales-Analysis/blob/559acbd9d98056c0d11e84f5d3cb908eb4386026/Sales%20Analysis.png)
 
